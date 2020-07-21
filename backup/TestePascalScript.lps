@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="TestePascalScript.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="un_principal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Un_Principal"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="97"/>
+        <CursorPos X="6" Y="127"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="un_evento.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Un_Evento"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="29" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="20" HistoryIndex="19">
+      <Position1>
+        <Filename Value="un_principal.pas"/>
+        <Caret Line="25" Column="32"/>
+      </Position1>
+      <Position2>
+        <Filename Value="un_principal.pas"/>
+        <Caret Line="23" Column="3" TopLine="12"/>
+      </Position2>
+      <Position3>
+        <Filename Value="un_principal.pas"/>
+        <Caret Line="24" Column="13" TopLine="13"/>
+      </Position3>
+      <Position4>
+        <Filename Value="un_principal.pas"/>
+        <Caret Line="45" Column="40" TopLine="13"/>
+      </Position4>
+      <Position5>
+        <Filename Value="un_principal.pas"/>
+        <Caret Line="25" Column="16" TopLine="13"/>
+      </Position5>
+      <Position6>
+        <Filename Value="un_principal.pas"/>
+        <Caret Line="54" TopLine="22"/>
+      </Position6>
+      <Position7>
+        <Filename Value="un_principal.pas"/>
+        <Caret Line="53" TopLine="22"/>
+      </Position7>
+      <Position8>
+        <Filename Value="un_principal.pas"/>
+        <Caret Line="75" TopLine="56"/>
+      </Position8>
+      <Position9>
+        <Filename Value="un_evento.pas"/>
+        <Caret Line="20" Column="3"/>
+      </Position9>
+      <Position10>
+        <Filename Value="un_evento.pas"/>
+        <Caret Line="15" Column="66"/>
+      </Position10>
+      <Position11>
+        <Filename Value="un_principal.pas"/>
+        <Caret Line="56" Column="7" TopLine="34"/>
+      </Position11>
+      <Position12>
+        <Filename Value="un_principal.pas"/>
+        <Caret Line="65" Column="4" TopLine="44"/>
+      </Position12>
+      <Position13>
+        <Filename Value="un_principal.pas"/>
+        <Caret Line="12" Column="30"/>
+      </Position13>
+      <Position14>
+        <Filename Value="un_principal.pas"/>
+        <Caret Line="77" Column="51" TopLine="56"/>
+      </Position14>
+      <Position15>
+        <Filename Value="un_principal.pas"/>
+        <Caret Line="11" Column="15"/>
+      </Position15>
+      <Position16>
+        <Filename Value="un_principal.pas"/>
+        <Caret Line="89" Column="15" TopLine="68"/>
+      </Position16>
+      <Position17>
+        <Filename Value="un_principal.pas"/>
+        <Caret Line="11" Column="13"/>
+      </Position17>
+      <Position18>
+        <Filename Value="un_evento.pas"/>
+        <Caret Line="31" Column="3"/>
+      </Position18>
+      <Position19>
+        <Filename Value="un_evento.pas"/>
+        <Caret Line="8" Column="29"/>
+      </Position19>
+      <Position20>
+        <Filename Value="un_principal.pas"/>
+        <Caret Line="56" TopLine="29"/>
+      </Position20>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

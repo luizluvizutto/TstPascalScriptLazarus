@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1351329191"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq -FiC:\DesenvolLazarus\Testes\TstPascalScript\lib\x86_64-win64 -FuC:\lazarus\components\synedit\units\x86_64-win64\win32 -FuC:\lazarus\components\PascalScript\Source\lib\x86_64-win64 -FuC:\lazarus\lcl\units\x86_64-win64\win32 -FuC:\lazarus\lcl\units\x86_64-win64 -FuC:\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\lazarus\packager\units\x86_64-win64 -FuC:\DesenvolLazarus\Testes\TstPascalScript\ -FUC:\DesenvolLazarus\Testes\TstPascalScript\lib\x86_64-win64\ -FEC:\DesenvolLazarus\Testes\TstPascalScript\ -oC:\DesenvolLazarus\Testes\TstPascalScript\TestePascalScript.exe -dLCL -dLCLwin32 TestePascalScript.lpr"/>
+</CONFIG>
